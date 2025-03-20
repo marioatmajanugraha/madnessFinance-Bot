@@ -1,5 +1,7 @@
 # Madness Finance AutoTask Bot 🤖
 
+![MadFinance new update](https://github.com/user-attachments/assets/e5cc14d1-72d2-4a0b-873b-440822d7bfd2)
+
 Script ini digunakan untuk mengotomatiskan pembuatan wallet dan registrasi ke API Madness Finance (`https://madness.finance/api/create`).
 
 ## 📌 Fitur
@@ -8,6 +10,9 @@ Script ini digunakan untuk mengotomatiskan pembuatan wallet dan registrasi ke AP
 
 ## NEW UPDATE!! 
 - pada file cookies.txt isi: [cookie] // Address: [wallet address kalian]
+
+![new update](https://github.com/user-attachments/assets/107bf8f9-aa29-4c23-a734-5226cd8c8a55)
+---
 
 ## 🚀 Cara Penggunaan
 1. **Clone repository ini**
