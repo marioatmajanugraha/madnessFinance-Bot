@@ -6,6 +6,9 @@ Script ini digunakan untuk mengotomatiskan pembuatan wallet dan registrasi ke AP
 - 🔌 Dukungan proxy (`proxy.txt`) dengan switching otomatis jika gagal
 - 🎨 Tampilan konsol yang menarik dengan emoji dan warna
 
+## NEW UPDATE!! 
+- pada file cookies.txt isi: [cookie] // Address: [wallet address kalian]
+
 ## 🚀 Cara Penggunaan
 1. **Clone repository ini**
 ```sh
